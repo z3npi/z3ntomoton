@@ -1,0 +1,10 @@
+{
+  "name": "z3nb0t",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "tmi.js": "^1.5.0"
+  }
+}
